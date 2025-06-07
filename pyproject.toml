@@ -12,7 +12,6 @@ authors =  [
 license = {file = "LICENSE"}
 
 dependencies = [
-    "./bark",
     "nltk",
     "numpy",
     "torch",
