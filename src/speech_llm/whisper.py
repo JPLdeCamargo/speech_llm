@@ -31,7 +31,6 @@ class Whisper(Node):
             tokenizer=processor.tokenizer,
             feature_extractor=processor.feature_extractor,
             torch_dtype=torch_dtype,
-            device=device,
             return_timestamps=True,
         )
 

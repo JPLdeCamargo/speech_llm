@@ -17,6 +17,7 @@ dependencies = [
     "torch",
     "transformers",
     "peft",
+    "bitsandbytes"
 ]
 
 # [project.urls]
